@@ -1,4 +1,5 @@
 Данный проект является заданием Live Codding для собеседований на вакансии Middle и Senior PHP Engineer.
+Интервьювер: Uskov Stanislav
 
 Исходные данные:
 1. Имеем 3 модели двух доменов: Goods и Orders
